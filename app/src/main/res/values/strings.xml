@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Tic-Tac-Toe</string>
 
-    <string name="player_1_wins">Player 1 Wins</string>
-    <string name="player_2_wins">Player 2 Wins</string>
+    <string name="player_wins">Player %d Wins</string>
     <string name="draw">It\'s a Tie</string>
 
     <string name="player_1_move">O</string>
